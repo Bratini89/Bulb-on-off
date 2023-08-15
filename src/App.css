@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: auto;
+}
+
+.bulb {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background-color: orange;
+}
+
+button {
+  align-items: center;
+  display: flex;
+  margin-top: 20px;
+}
